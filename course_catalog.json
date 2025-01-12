@@ -31,5 +31,27 @@
         "prerequisites": "Machine learning course at IITGN (ES 335)",
         "grading": "Exam 50%, Homework 20%, Project 30%",
         "description": "An introduction to deep learning techniques."
+    },
+    {
+        "code": "Es245",
+        "name": "control System ",
+        "instructor": "rajendran",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
+    },
+    {
+        "code": "es242",
+        "name": "dsa",
+        "instructor": "neeldhaara",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
     }
 ]

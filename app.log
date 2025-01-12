@@ -1282,3 +1282,60 @@ requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=5000)
 2025-01-12 15:01:20,111 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:20] "GET /catalog HTTP/1.1" 200 -
 2025-01-12 15:01:34,079 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:34] "GET / HTTP/1.1" 200 -
 2025-01-12 15:01:36,194 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:36] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:28:06,276 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 15:28:06,278 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-12 15:28:06,299 - INFO - * Restarting with stat
+2025-01-12 15:28:08,389 - WARNING - * Debugger is active!
+2025-01-12 15:28:08,402 - INFO - * Debugger PIN: 374-330-095
+2025-01-12 15:28:24,415 - INFO -127.0.0.1 - - [12/Jan/2025 15:28:24] "GET / HTTP/1.1" 200 -
+2025-01-12 15:28:42,851 - INFO -127.0.0.1 - - [12/Jan/2025 15:28:42] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:31:56,309 - INFO - * Detected change in 'c:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:31:57,090 - INFO - * Restarting with stat
+2025-01-12 15:34:48,734 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 15:34:48,734 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-12 15:34:48,736 - INFO - * Restarting with stat
+2025-01-12 15:34:49,950 - WARNING - * Debugger is active!
+2025-01-12 15:34:50,073 - INFO - * Debugger PIN: 374-330-095
+2025-01-12 15:35:06,889 - INFO -127.0.0.1 - - [12/Jan/2025 15:35:06] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:35:40,910 - INFO -127.0.0.1 - - [12/Jan/2025 15:35:40] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 15:35:41,049 - INFO -127.0.0.1 - - [12/Jan/2025 15:35:41] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:45:56,939 - INFO - * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:45:57,450 - INFO - * Restarting with stat
+2025-01-12 15:45:59,005 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:45:59,029 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:46:10,230 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:46:10,349 - INFO - * Restarting with stat
+2025-01-12 15:46:11,461 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:46:11,467 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:46:17,740 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:46:17] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:48:37,332 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:48:37] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:48:43,450 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:48:43] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 15:48:43,475 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:48:43] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:53:18,555 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:53:19,120 - INFO - * Restarting with stat
+2025-01-12 15:53:20,355 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:53:20,366 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:53:49,317 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:53:49,732 - INFO - * Restarting with stat
+2025-01-12 15:53:51,157 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:53:51,182 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:54:11,910 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:54:11] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 15:54:11,982 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:54:11] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:54:32,432 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:54:32] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 15:54:32,625 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:54:32] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:55:51,335 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:55:51,686 - INFO - * Restarting with stat
+2025-01-12 15:55:52,888 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:55:52,893 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:56:09,187 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 15:56:09,358 - INFO - * Restarting with stat
+2025-01-12 15:56:10,440 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 15:56:10,448 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 15:56:23,231 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:56:23] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 15:56:29,495 - app - ERROR - Form validation failed - Filled fields: name, instructor. Missing fields: code
+2025-01-12 15:56:29,500 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:56:29] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 15:56:29,520 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:56:29] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 16:00:57,233 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 16:00:57,604 - INFO - * Restarting with stat

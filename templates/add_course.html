@@ -7,11 +7,22 @@
 </head>
 <body>
     <h1>Add a New Course</h1>
-    <form method="post",action="{{ url_for('add_course') }}">
+    
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('add_course') }}">
         <label for="code">Course Code:</label><br>
-        <input type="text" id="code" name="code" required><br>
+        <input type="text" id="code" name="code"><br>
         <label for="name">Course Name:</label><br>
-        <input type="text" id="name" name="name" required><br>
+        <input type="text" id="name" name="name"><br>
         <label for="instructor">Instructor:</label><br>
         <input type="text" id="instructor" name="instructor"><br>
         <label for="semester">Semester:</label><br>

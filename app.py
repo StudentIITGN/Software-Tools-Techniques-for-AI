@@ -18,8 +18,8 @@ COURSE_FILE = 'course_catalog.json'
 # configuring logging
 logging.basicConfig(
     filename='app.log',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s -%(message)s'
+    level=logging.ERROR,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 
 # OpenTelemetry Setup
@@ -71,13 +71,18 @@ def course_catalog():
 def add_course():
     with tracer.start_as_current_span("add_course_route") as span:
       if request.method == 'POST':
-            required_fields = ['code', 'name', 'instructor']
+            required_fields = ['code', 'name']
+            
+            # Get filled and missing fields
+            filled_fields = [field for field in required_fields if request.form.get(field)]
             missing_fields = [field for field in required_fields if not request.form.get(field)]
 
             if missing_fields:
-                error_message = f"Missing fields: {', '.join(missing_fields)}"
+                error_message = f"Filled fields: {', '.join(filled_fields)}. Missing fields: {', '.join(missing_fields)}"
                 span.set_attribute("error", True)
                 span.set_attribute("missing_fields", missing_fields)
+                span.set_attribute("filled_fields", filled_fields)
+                app.logger.error(f"Form validation failed - {error_message}")
                 flash(error_message, "error")
                 return redirect(url_for('add_course'))
             course = {

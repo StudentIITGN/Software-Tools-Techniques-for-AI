@@ -1339,3 +1339,114 @@ requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=5000)
 2025-01-12 15:56:29,520 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 15:56:29] "GET /add_course HTTP/1.1" 200 -
 2025-01-12 16:00:57,233 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
 2025-01-12 16:00:57,604 - INFO - * Restarting with stat
+2025-01-12 16:00:58,734 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 16:00:58,745 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:17:24,082 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 19:17:24,082 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:17:24,090 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:17:25,311 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:17:25,349 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:17:34,903 - __main__ - INFO - Home page accessed
+2025-01-12 19:17:35,054 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-12 19:17:35,930 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-12 19:17:35,945 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-12 19:17:36,316 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-12 19:17:36,457 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-12 19:17:54,616 - __main__ - INFO - Home page accessed
+2025-01-12 19:17:54,897 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-01-12 19:17:55,209 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:55] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-01-12 19:17:55,213 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:55] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-01-12 19:17:55,642 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:17:55] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-01-12 19:19:26,197 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\iitgn\\stt final\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 19:19:27,585 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:19:30,620 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:19:30,635 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:19:36,464 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:19:36] "GET / HTTP/1.1" 200 -
+2025-01-12 19:19:37,027 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:19:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-12 19:19:39,865 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:19:39] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 19:20:08,811 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:20:08] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 19:24:41,337 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 19:24:41,337 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:24:41,344 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:24:42,275 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:24:42,285 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:24:47,153 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:47] "GET / HTTP/1.1" 200 -
+2025-01-12 19:24:51,107 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:51] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 19:24:52,339 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:52] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:24:57,729 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
+2025-01-12 19:24:57,732 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:57] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:24:57,763 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:24:57] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:26:50,739 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 19:26:50,739 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:26:50,743 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:26:51,758 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:26:51,778 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:26:58,183 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:26:58] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:27:03,679 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
+2025-01-12 19:27:03,684 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:27:03] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:27:03,710 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:27:03] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:32:57,713 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 19:32:57,713 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:32:57,720 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:32:58,629 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:32:58,660 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:33:08,865 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:33:08] "GET / HTTP/1.1" 200 -
+2025-01-12 19:34:06,552 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:06] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 19:34:09,078 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:09] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:34:26,867 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:26] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:34:26,994 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:26] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 19:34:45,098 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:45] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:34:49,012 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
+2025-01-12 19:34:49,016 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:49] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:34:49,032 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:34:49] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:43:24,026 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 19:43:24,031 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 19:43:24,031 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 19:43:25,356 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 19:43:25,359 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 19:44:12,229 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:44:12] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:44:21,660 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
+2025-01-12 19:44:21,707 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:44:21] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:44:21,739 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:44:21] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 19:53:15,455 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:53:15] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 19:53:15,647 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 19:53:15] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 21:34:12,249 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 21:34:12,249 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 21:34:12,265 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 21:34:13,258 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 21:34:13,274 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 21:34:41,878 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:34:41] "GET / HTTP/1.1" 200 -
+2025-01-12 21:34:42,621 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:34:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-12 21:34:49,272 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:34:49] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 21:40:10,963 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 21:40:10,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 21:40:10,967 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 21:40:12,039 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 21:40:12,044 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 21:40:22,483 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:40:22] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 21:40:52,766 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:40:52] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 21:42:38,129 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 21:42:38,130 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 21:42:38,133 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 21:42:40,418 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 21:42:40,438 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 21:43:06,455 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:43:06] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 21:46:04,712 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 21:46:04,712 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 21:46:04,718 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 21:46:05,821 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 21:46:05,832 - werkzeug - INFO -  * Debugger PIN: 374-330-095
+2025-01-12 21:46:14,552 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:14] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 21:46:26,673 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:26] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 21:46:41,447 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
+2025-01-12 21:46:41,461 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:41] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 21:46:41,488 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:41] "GET /add_course HTTP/1.1" 200 -

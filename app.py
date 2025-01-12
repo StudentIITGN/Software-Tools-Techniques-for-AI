@@ -9,6 +9,12 @@ from opentelemetry.sdk.trace.export import BatchSpanProcessor
 from opentelemetry.exporter.jaeger.thrift import JaegerExporter
 from opentelemetry.instrumentation.flask import FlaskInstrumentor
 from opentelemetry.trace import SpanKind
+from opentelemetry.metrics import get_meter_provider, set_meter_provider
+from opentelemetry.sdk.metrics import MeterProvider
+from opentelemetry.sdk.metrics.export import PeriodicExportingMetricReader
+from opentelemetry.exporter.otlp.proto.grpc.metric_exporter import OTLPMetricExporter
+import time
+from opentelemetry.semconv.trace import SpanAttributes
 
 # Flask App Initialization
 app = Flask(__name__)
@@ -27,14 +33,52 @@ resource = Resource.create({"service.name": "course-catalog-service"})
 trace.set_tracer_provider(TracerProvider(resource=resource))
 tracer = trace.get_tracer(__name__)
 
-Jaeger_exporter =JaegerExporter(
-    agent_host_name='localhost', 
-    agent_port=5775
+Jaeger_exporter = JaegerExporter(
+    agent_host_name='localhost',
+    agent_port=6831,
 )
 span_processor = BatchSpanProcessor(Jaeger_exporter)
 trace.get_tracer_provider().add_span_processor(span_processor)
 FlaskInstrumentor().instrument_app(app)
 
+# Set up metrics
+meter_provider = MeterProvider()
+set_meter_provider(meter_provider)
+meter = get_meter_provider().get_meter("course_catalog_metrics")
+
+# Create counters and histograms for metrics
+route_counter = meter.create_counter(
+    "route_requests",
+    description="Number of requests for each route"
+)
+
+operation_time = meter.create_histogram(
+    "operation_duration",
+    description="Time taken for operations",
+    unit="ms"
+)
+
+error_counter = meter.create_counter(
+    "errors",
+    description="Number of errors"
+)
+
+# Custom middleware to track request metrics
+@app.before_request
+def before_request():
+    request.start_time = time.time()
+
+@app.after_request
+def after_request(response):
+    # Track route access
+    route_counter.add(1, {"route": request.endpoint})
+    
+    # Track operation time
+    if hasattr(request, 'start_time'):
+        duration = (time.time() - request.start_time) * 1000
+        operation_time.record(duration, {"route": request.endpoint})
+    
+    return response
 
 # Utility Functions
 def load_courses():
@@ -129,6 +173,55 @@ def manual_trace():
 def auto_instrumented():
     # Automatically instrumented via FlaskInstrumentor
     return "This route is auto-instrumented!", 200
+
+# Add these imports (with your other imports at the top)
+from opentelemetry.trace import SpanKind
+from opentelemetry.semconv.trace import SpanAttributes
+
+# Add this code after your existing logging setup but before the routes
+class JaegerLogHandler(logging.Handler):
+    def emit(self, record):
+        try:
+            # Get current span or create a new one
+            current_span = trace.get_current_span()
+            
+            if not current_span or not current_span.is_recording():
+                tracer = trace.get_tracer(__name__)
+                with tracer.start_as_current_span(
+                    name="log_event",
+                    kind=SpanKind.INTERNAL
+                ) as span:
+                    self._emit_to_span(span, record)
+            else:
+                self._emit_to_span(current_span, record)
+        except Exception as e:
+            print(f"Error emitting log to span: {e}")
+                
+    def _emit_to_span(self, span, record):
+        # Add log details as span attributes
+        span.set_attribute("log.level", record.levelname)
+        span.set_attribute("log.message", record.getMessage())
+        span.set_attribute("log.timestamp", record.created)
+        span.set_attribute("log.logger", record.name)
+        
+        # Add as span event
+        span.add_event(
+            name=f"log.{record.levelname.lower()}",
+            attributes={
+                "message": record.getMessage(),
+                "logger": record.name,
+                "level": record.levelname,
+            }
+        )
+
+# Create logger instance
+logger = logging.getLogger(__name__)
+
+# Then add the handler
+logger.addHandler(JaegerLogHandler())
+
+# Also add it to the Werkzeug logger to capture HTTP requests
+logging.getLogger('werkzeug').addHandler(JaegerLogHandler())
 
 if __name__ == '__main__':
     port = 5000  

@@ -53,5 +53,27 @@
         "prerequisites": "",
         "grading": "",
         "description": ""
+    },
+    {
+        "code": "ph201",
+        "name": "electrodynamics",
+        "instructor": "",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
+    },
+    {
+        "code": "cs202",
+        "name": "stt cse",
+        "instructor": "",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
     }
 ]

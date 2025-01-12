@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    {% extends "base.html" %}
+    {% block content %}
+<head>
+    <title>Add Course</title>
+</head>
+<body>
+    <h1>Add a New Course</h1>
+    <form method="post",action="{{ url_for('add_course') }}">
+        <label for="code">Course Code:</label><br>
+        <input type="text" id="code" name="code" required><br>
+        <label for="name">Course Name:</label><br>
+        <input type="text" id="name" name="name" required><br>
+        <label for="instructor">Instructor:</label><br>
+        <input type="text" id="instructor" name="instructor"><br>
+        <label for="semester">Semester:</label><br>
+        <input type="text" id="semester" name="semester"><br>
+        <label for="schedule">Schedule:</label><br>
+        <input type="text" id="schedule" name="schedule"><br>
+        <label for="classroom">Classroom:</label><br>
+        <input type="text" id="classroom" name="classroom"><br>
+        <label for="prerequisites">Prerequisites:</label><br>
+        <input type="text" id="prerequisites" name="prerequisites"><br>
+        <label for="grading">Grading:</label><br>
+        <input type="text" id="grading" name="grading"><br>
+        <label for="description">Description:</label><br>
+        <textarea id="description" name="description" rows="4"></textarea><br><br>
+        <input type="submit" value="Add Course">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Home</a>
+</body>
+{% endblock %}
+</html>

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Course Catalog</h2>
+<a href="{{ url_for('add_course') }}" class="btn btn-primary">Add Course</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Course Code</th>
+            <th>Course Name</th>
+            <th>Instructor</th>
+            <th>Semester</th>
+            <th>Schedule</th>
+            <th>Classroom</th>
+            <th>Prerequisites</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for course in courses %}
+            <tr>
+                <td>{{ course.code }}</td>
+                <td><a href="{{ url_for('course_details', code=course['code']) }}">{{ course.name }}</a></td>
+                <td>{{ course.instructor }}</td>
+                <td>{{ course.semester }}</td>
+                <td>{{ course.schedule }}</td>
+                <td>{{ course.classroom }}</td>
+                <td>{{ course.prerequisites }}</td>
+                <td>{{ course.description }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
+

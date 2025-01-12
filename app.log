@@ -1,0 +1,1284 @@
+2025-01-10 18:25:36,129 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 18:25:36,130 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 18:25:36,132 - INFO - * Restarting with stat
+2025-01-10 18:25:36,925 - WARNING - * Debugger is active!
+2025-01-10 18:25:36,932 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:35:05,250 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 18:35:05,251 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 18:35:05,254 - INFO - * Restarting with stat
+2025-01-10 18:35:06,334 - WARNING - * Debugger is active!
+2025-01-10 18:35:06,342 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:44:45,098 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 18:44:45,227 - INFO - * Restarting with stat
+2025-01-10 18:44:46,479 - WARNING - * Debugger is active!
+2025-01-10 18:44:46,486 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:48:43,516 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 18:48:43,595 - INFO - * Restarting with stat
+2025-01-10 18:48:44,801 - WARNING - * Debugger is active!
+2025-01-10 18:48:44,804 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:49:02,363 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 18:49:02,431 - INFO - * Restarting with stat
+2025-01-10 18:49:03,675 - WARNING - * Debugger is active!
+2025-01-10 18:49:03,677 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:57:56,030 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 18:57:56,110 - INFO - * Restarting with stat
+2025-01-10 18:57:57,325 - WARNING - * Debugger is active!
+2025-01-10 18:57:57,328 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 18:58:13,041 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 18:58:13,041 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 18:58:13,043 - INFO - * Restarting with stat
+2025-01-10 18:58:14,077 - WARNING - * Debugger is active!
+2025-01-10 18:58:14,079 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:01:37,620 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:01:37,712 - INFO - * Restarting with stat
+2025-01-10 19:01:37,883 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:01:37,961 - INFO - * Restarting with stat
+2025-01-10 19:01:39,222 - WARNING - * Debugger is active!
+2025-01-10 19:01:39,225 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:01:39,289 - WARNING - * Debugger is active!
+2025-01-10 19:01:39,292 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:01:47,505 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:01:47,538 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:01:47,605 - INFO - * Restarting with stat
+2025-01-10 19:01:47,633 - INFO - * Restarting with stat
+2025-01-10 19:01:49,040 - WARNING - * Debugger is active!
+2025-01-10 19:01:49,043 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:01:49,044 - WARNING - * Debugger is active!
+2025-01-10 19:01:49,046 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:01:49,093 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:49] "GET / HTTP/1.1" 200 -
+2025-01-10 19:01:49,178 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-10 19:01:50,497 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:50] "GET / HTTP/1.1" 200 -
+2025-01-10 19:01:54,023 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:54] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:01:54,026 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:01:56,393 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:56] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 19:01:58,853 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:58] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 19:01:59,024 - INFO -127.0.0.1 - - [10/Jan/2025 19:01:59] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:01:59,025 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:04,028 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:04] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:04,029 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:09,055 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:09] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:09,056 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:14,054 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:14] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:14,055 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:19,071 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:19] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:19,072 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:23,376 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:02:23,377 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:02:23,483 - INFO - * Restarting with stat
+2025-01-10 19:02:24,748 - WARNING - * Debugger is active!
+2025-01-10 19:02:24,751 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:02:30,954 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:02:31,038 - INFO - * Restarting with stat
+2025-01-10 19:02:32,186 - WARNING - * Debugger is active!
+2025-01-10 19:02:32,189 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:02:33,396 - ERROR -Exception while exporting Span batch.
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\sdk\trace\export\__init__.py", line 360, in _export_batch
+    self.span_exporter.export(self.spans_list[:idx])  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 189, in export
+    return self._export_serialized_spans(serialized_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 159, in _export_serialized_spans
+    resp = self._export(serialized_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 133, in _export
+    return self._session.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=10)
+2025-01-10 19:02:33,504 - INFO - * Restarting with stat
+2025-01-10 19:02:34,887 - WARNING - * Debugger is active!
+2025-01-10 19:02:34,890 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:02:34,919 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:34] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:34,932 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:34] "GET / HTTP/1.1" 200 -
+2025-01-10 19:02:39,858 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:39] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:39,859 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:40,669 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:40] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 19:02:43,402 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:43] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 19:02:44,857 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:44] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:44,858 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:49,873 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:49] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:49,873 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:54,889 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:54] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:54,889 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:02:59,890 - INFO -127.0.0.1 - - [10/Jan/2025 19:02:59] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:02:59,890 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:04,906 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:04] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:04,908 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:09,904 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:09] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:09,905 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:14,934 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:14] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:14,935 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:19,943 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:19] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:19,945 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:24,956 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:24] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:24,958 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:29,949 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:29] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:29,950 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:34,971 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:34] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:34,975 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:39,963 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:39] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:39,964 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:44,980 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:44] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:44,981 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:49,993 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:49] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:49,995 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:54,996 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:54] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:54,998 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:03:59,996 - INFO -127.0.0.1 - - [10/Jan/2025 19:03:59] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:03:59,997 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:04,998 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:04] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:04,999 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:10,008 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:10,009 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:15,037 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:15,039 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:20,040 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:20,042 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:25,050 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:25,052 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:30,049 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:30,050 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:35,066 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:35,068 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:40,080 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:40,080 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:45,079 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:45,080 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:50,105 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:50,105 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:04:55,102 - INFO -127.0.0.1 - - [10/Jan/2025 19:04:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:04:55,104 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:00,113 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:00,114 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:05,138 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:05,139 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:10,132 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:10,133 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:15,151 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:15,152 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:20,143 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:20,145 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:25,161 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:25,162 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:30,166 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:30,168 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:35,160 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:35,162 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:40,180 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:40,182 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:45,183 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:45,185 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:50,210 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:50,212 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:05:51,607 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:51] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-10 19:05:51,631 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:51] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 19:05:55,221 - INFO -127.0.0.1 - - [10/Jan/2025 19:05:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:05:55,224 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:00,211 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:00,211 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:01,257 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:01] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 19:06:05,231 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:05,232 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:10,233 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:10,235 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:15,245 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:15,247 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:20,251 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:20,252 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:25,247 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:25,249 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:30,266 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:30,267 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:35,266 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:35,267 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:40,291 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:40,292 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:45,296 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:45,297 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:50,287 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:50,288 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:06:55,291 - INFO -127.0.0.1 - - [10/Jan/2025 19:06:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:06:55,293 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:00,296 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:00,296 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:05,311 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:05,313 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:10,335 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:10,337 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:15,350 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:15,352 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:20,362 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:20,364 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:25,360 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:25,361 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:30,379 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:30,381 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:35,379 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:35,380 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:40,379 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:40,380 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:45,407 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:45,408 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:50,420 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:50,421 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:07:55,421 - INFO -127.0.0.1 - - [10/Jan/2025 19:07:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:07:55,422 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:00,441 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:00,442 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:05,456 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:05,458 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:10,450 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:10,451 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:15,467 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:15,468 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:20,468 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:20,469 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:25,488 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:25,489 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:30,501 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:30,503 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:35,502 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:35,504 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:40,494 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:40,496 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:45,521 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:45,523 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:50,528 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:50,530 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:08:55,537 - INFO -127.0.0.1 - - [10/Jan/2025 19:08:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:08:55,539 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:00,533 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:00,534 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:05,554 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:05,555 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:10,565 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:10,566 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:15,560 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:15,562 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:20,563 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:20,564 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:25,581 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:25,582 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:30,595 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:30,596 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:35,587 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:35,588 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:40,590 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:40,591 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:45,605 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:45,606 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:50,595 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:50,595 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:09:55,616 - INFO -127.0.0.1 - - [10/Jan/2025 19:09:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:09:55,624 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:00,612 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:00,613 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:05,620 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:05,621 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:10,627 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:10,628 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:15,645 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:15,647 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:20,649 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:20,650 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:25,651 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:25,652 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:30,660 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:30,661 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:35,672 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:35,673 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:40,679 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:40,680 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:45,701 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:45,702 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:50,711 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:50,713 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:10:55,715 - INFO -127.0.0.1 - - [10/Jan/2025 19:10:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:10:55,718 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:00,733 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:00,735 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:05,731 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:05,813 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:10,738 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:10,739 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:15,740 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:15,741 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:20,752 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:20,754 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:25,740 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:25,742 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:30,751 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:30,753 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:35,765 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:35,767 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:40,790 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:40] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:40,791 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:45,793 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:45] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:45,795 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:50,795 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:50] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:50,797 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:11:55,782 - INFO -127.0.0.1 - - [10/Jan/2025 19:11:55] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:11:55,782 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:00,784 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:00] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:00,784 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:05,800 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:05] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:05,802 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:10,809 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:10] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:10,810 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:15,824 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:15] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:15,824 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:20,828 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:20] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:20,829 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:25,836 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:25] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:25,836 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:30,836 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:30,837 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:35,848 - INFO -127.0.0.1 - - [10/Jan/2025 19:12:35] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2025-01-10 19:12:35,849 - ERROR -Failed to export batch code: 405, reason: <!doctype html>
+<html lang=en>
+<title>405 Method Not Allowed</title>
+<h1>Method Not Allowed</h1>
+<p>The method is not allowed for the requested URL.</p>
+
+2025-01-10 19:12:39,631 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:12:40,094 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:12:40,297 - INFO - * Restarting with stat
+2025-01-10 19:12:49,663 - ERROR -Exception while exporting Span batch.
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "C:\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\sdk\trace\export\__init__.py", line 360, in _export_batch
+    self.span_exporter.export(self.spans_list[:idx])  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 189, in export
+    return self._export_serialized_spans(serialized_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 159, in _export_serialized_spans
+    resp = self._export(serialized_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\opentelemetry\exporter\otlp\proto\http\trace_exporter\__init__.py", line 133, in _export
+    return self._session.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\daksh\OneDrive - iitgn.ac.in\Couse Work Sem 4\AI Tools\Assignments\CS203_Lab_01\.venv\Lib\site-packages\requests\adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=5000): Read timed out. (read timeout=10)
+2025-01-10 19:12:49,761 - INFO - * Restarting with stat
+2025-01-10 19:16:40,987 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 19:16:40,988 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 19:16:40,990 - INFO - * Restarting with stat
+2025-01-10 19:16:41,675 - WARNING - * Debugger is active!
+2025-01-10 19:16:41,681 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:19:11,004 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 19:19:11,005 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 19:19:11,007 - INFO - * Restarting with stat
+2025-01-10 19:19:11,665 - WARNING - * Debugger is active!
+2025-01-10 19:19:11,668 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:21:11,879 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\.venv\\Lib\\site-packages\\opentelemetry\\exporter\\jaeger\\thrift\\gen\\zipkincore\\ttypes.py', reloading
+2025-01-10 19:21:12,139 - INFO - * Restarting with stat
+2025-01-10 19:21:12,412 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\.venv\\Lib\\site-packages\\opentelemetry\\exporter\\jaeger\\thrift\\__init__.py', reloading
+2025-01-10 19:21:12,543 - INFO - * Restarting with stat
+2025-01-10 19:21:13,895 - WARNING - * Debugger is active!
+2025-01-10 19:21:13,901 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:21:14,301 - WARNING - * Debugger is active!
+2025-01-10 19:21:14,305 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:21:32,928 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 19:21:32,928 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 19:21:32,930 - INFO - * Restarting with stat
+2025-01-10 19:21:33,601 - WARNING - * Debugger is active!
+2025-01-10 19:21:33,604 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:23:15,219 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:23:15,313 - INFO - * Restarting with stat
+2025-01-10 19:23:15,585 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:23:15,587 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:23:15,679 - INFO - * Restarting with stat
+2025-01-10 19:23:15,679 - INFO - * Restarting with stat
+2025-01-10 19:23:16,269 - WARNING - * Debugger is active!
+2025-01-10 19:23:16,273 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:23:16,451 - WARNING - * Debugger is active!
+2025-01-10 19:23:16,454 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:23:16,460 - WARNING - * Debugger is active!
+2025-01-10 19:23:16,464 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:33:15,988 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:33:16,145 - INFO - * Restarting with stat
+2025-01-10 19:33:16,154 - INFO - * Restarting with stat
+2025-01-10 19:33:16,154 - INFO - * Restarting with stat
+2025-01-10 19:33:17,257 - WARNING - * Debugger is active!
+2025-01-10 19:33:17,265 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:34:06,863 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:34:06,872 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:34:06,881 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:34:06,982 - INFO - * Restarting with stat
+2025-01-10 19:34:06,988 - INFO - * Restarting with stat
+2025-01-10 19:34:07,788 - WARNING - * Debugger is active!
+2025-01-10 19:34:07,794 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:34:07,796 - WARNING - * Debugger is active!
+2025-01-10 19:34:07,796 - WARNING - * Debugger is active!
+2025-01-10 19:34:07,802 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:34:07,802 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:34:26,589 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-10 19:34:26,589 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-10 19:34:26,591 - INFO - * Restarting with stat
+2025-01-10 19:34:27,213 - WARNING - * Debugger is active!
+2025-01-10 19:34:27,216 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:01,525 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:01,538 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:01,542 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:01,550 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:01,636 - INFO - * Restarting with stat
+2025-01-10 19:36:01,698 - INFO - * Restarting with stat
+2025-01-10 19:36:01,729 - INFO - * Restarting with stat
+2025-01-10 19:36:01,729 - INFO - * Restarting with stat
+2025-01-10 19:36:02,756 - WARNING - * Debugger is active!
+2025-01-10 19:36:02,757 - WARNING - * Debugger is active!
+2025-01-10 19:36:02,759 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:02,761 - WARNING - * Debugger is active!
+2025-01-10 19:36:02,761 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:02,763 - WARNING - * Debugger is active!
+2025-01-10 19:36:02,764 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:02,767 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:07,229 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:07] "GET / HTTP/1.1" 200 -
+2025-01-10 19:36:07,439 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-10 19:36:11,175 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:11] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 19:36:13,238 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:13] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 19:36:21,517 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:21,520 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:21,529 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:21,529 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 19:36:21,658 - INFO - * Restarting with stat
+2025-01-10 19:36:21,674 - INFO - * Restarting with stat
+2025-01-10 19:36:21,674 - INFO - * Restarting with stat
+2025-01-10 19:36:21,675 - INFO - * Restarting with stat
+2025-01-10 19:36:22,610 - WARNING - * Debugger is active!
+2025-01-10 19:36:22,612 - WARNING - * Debugger is active!
+2025-01-10 19:36:22,614 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:22,616 - WARNING - * Debugger is active!
+7
+2025-01-10 19:36:22,619 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:22,635 - WARNING - * Debugger is active!
+2025-01-10 19:36:22,639 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 19:36:52,602 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:52] "GET / HTTP/1.1" 200 -
+2025-01-10 19:36:54,910 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:54] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 19:36:57,513 - INFO -127.0.0.1 - - [10/Jan/2025 19:36:57] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 20:41:32,619 - INFO -127.0.0.1 - - [10/Jan/2025 20:41:32] "GET / HTTP/1.1" 200 -
+2025-01-10 20:41:52,935 - INFO -127.0.0.1 - - [10/Jan/2025 20:41:52] "GET /catalog HTTP/1.1" 200 -
+2025-01-10 20:42:01,782 - INFO -127.0.0.1 - - [10/Jan/2025 20:42:01] "GET /add_course HTTP/1.1" 200 -
+2025-01-10 21:10:15,231 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:10:15,366 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:10:15,361 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:10:15,394 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:10:15,616 - INFO - * Restarting with stat
+2025-01-10 21:10:15,782 - INFO - * Restarting with stat
+2025-01-10 21:10:15,809 - INFO - * Restarting with stat
+2025-01-10 21:10:15,864 - INFO - * Restarting with stat
+2025-01-10 21:10:18,763 - WARNING - * Debugger is active!
+2025-01-10 21:10:18,765 - WARNING - * Debugger is active!
+2025-01-10 21:10:18,766 - WARNING - * Debugger is active!
+2025-01-10 21:10:18,773 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 21:10:18,775 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 21:10:18,779 - INFO - * Debugger PIN: 740-007-867
+2025-01-10 21:12:16,998 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:12:17,179 - INFO - * Restarting with stat
+2025-01-10 21:12:17,324 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:12:17,338 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:12:17,350 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-10 21:12:17,530 - INFO - * Restarting with stat
+2025-01-10 21:12:17,562 - INFO - * Restarting with stat
+2025-01-10 21:12:17,566 - INFO - * Restarting with stat
+2025-01-10 21:12:20,698 - WARNING - * Debugger is active!
+2025-01-10 21:12:20,709 - INFO - * Debugger PIN: 740-007-867
+2025-01-11 13:17:39,842 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 13:17:39,845 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-11 13:17:39,849 - INFO - * Restarting with stat
+2025-01-11 13:17:40,859 - WARNING - * Debugger is active!
+2025-01-11 13:17:40,864 - INFO - * Debugger PIN: 740-007-867
+2025-01-11 13:18:53,276 - INFO -127.0.0.1 - - [11/Jan/2025 13:18:53] "GET / HTTP/1.1" 200 -
+2025-01-11 13:18:54,167 - INFO -127.0.0.1 - - [11/Jan/2025 13:18:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-11 13:18:58,880 - INFO -127.0.0.1 - - [11/Jan/2025 13:18:58] "GET /catalog HTTP/1.1" 200 -
+2025-01-11 13:19:03,182 - INFO -127.0.0.1 - - [11/Jan/2025 13:19:03] "GET /add_course HTTP/1.1" 200 -
+2025-01-11 13:24:37,771 - INFO -127.0.0.1 - - [11/Jan/2025 13:24:37] "GET / HTTP/1.1" 200 -
+2025-01-11 16:10:55,193 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 16:10:55,194 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-11 16:10:55,197 - INFO - * Restarting with stat
+2025-01-11 16:10:55,985 - WARNING - * Debugger is active!
+2025-01-11 16:10:55,994 - INFO - * Debugger PIN: 740-007-867
+2025-01-11 16:13:02,953 - INFO -127.0.0.1 - - [11/Jan/2025 16:13:02] "GET / HTTP/1.1" 200 -
+2025-01-11 16:13:03,457 - INFO -127.0.0.1 - - [11/Jan/2025 16:13:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-11 16:28:15,878 - INFO -127.0.0.1 - - [11/Jan/2025 16:28:15] "GET / HTTP/1.1" 200 -
+2025-01-11 16:28:18,644 - INFO -127.0.0.1 - - [11/Jan/2025 16:28:18] "GET /catalog HTTP/1.1" 200 -
+2025-01-11 16:28:21,015 - INFO -127.0.0.1 - - [11/Jan/2025 16:28:21] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 14:46:53,078 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 14:46:53,079 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-12 14:46:53,081 - INFO - * Restarting with stat
+2025-01-12 14:46:54,194 - WARNING - * Debugger is active!
+2025-01-12 14:46:54,205 - INFO - * Debugger PIN: 740-007-867
+2025-01-12 14:52:10,314 - INFO - * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\AI Tools\\Assignments\\CS203_Lab_01\\app.py', reloading
+2025-01-12 14:52:10,533 - INFO - * Restarting with stat
+2025-01-12 14:52:12,229 - WARNING - * Debugger is active!
+2025-01-12 14:52:12,248 - INFO - * Debugger PIN: 740-007-867
+2025-01-12 14:52:28,410 - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 14:52:28,410 - INFO -[33mPress CTRL+C to quit[0m
+2025-01-12 14:52:28,412 - INFO - * Restarting with stat
+2025-01-12 14:52:29,342 - WARNING - * Debugger is active!
+2025-01-12 14:52:29,346 - INFO - * Debugger PIN: 131-319-516
+2025-01-12 14:53:11,856 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:11] "GET / HTTP/1.1" 200 -
+2025-01-12 14:53:15,808 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:15] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 14:53:18,871 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:18] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 14:53:27,757 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:27] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 14:53:41,809 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:41] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 14:53:41,843 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:41] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 14:53:48,100 - INFO -127.0.0.1 - - [12/Jan/2025 14:53:48] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 14:54:15,922 - INFO -127.0.0.1 - - [12/Jan/2025 14:54:15] "GET / HTTP/1.1" 200 -
+2025-01-12 14:54:17,996 - INFO -127.0.0.1 - - [12/Jan/2025 14:54:17] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:00:49,068 - INFO -127.0.0.1 - - [12/Jan/2025 15:00:49] "GET / HTTP/1.1" 200 -
+2025-01-12 15:00:50,398 - INFO -127.0.0.1 - - [12/Jan/2025 15:00:50] "GET / HTTP/1.1" 200 -
+2025-01-12 15:00:53,020 - INFO -127.0.0.1 - - [12/Jan/2025 15:00:53] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:01:05,288 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:05] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:01:18,234 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:18] "GET / HTTP/1.1" 200 -
+2025-01-12 15:01:20,111 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:20] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 15:01:34,079 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:34] "GET / HTTP/1.1" 200 -
+2025-01-12 15:01:36,194 - INFO -127.0.0.1 - - [12/Jan/2025 15:01:36] "GET /catalog HTTP/1.1" 200 -

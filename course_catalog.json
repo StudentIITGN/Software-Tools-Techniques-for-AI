@@ -75,5 +75,27 @@
         "prerequisites": "",
         "grading": "",
         "description": ""
+    },
+    {
+        "code": "EH445",
+        "name": "Lithosphere",
+        "instructor": "uthsav manu",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
+    },
+    {
+        "code": "EH668",
+        "name": "Drone data",
+        "instructor": "pankaj khanna",
+        "semester": "",
+        "schedule": "",
+        "classroom": "",
+        "prerequisites": "",
+        "grading": "",
+        "description": ""
     }
 ]

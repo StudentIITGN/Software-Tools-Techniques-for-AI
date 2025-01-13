@@ -1450,3 +1450,425 @@ requests.exceptions.ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=5000)
 2025-01-12 21:46:41,447 - app - ERROR - Form validation failed - Filled fields: . Missing fields: code, name
 2025-01-12 21:46:41,461 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:41] "[32mPOST /add_course HTTP/1.1[0m" 302 -
 2025-01-12 21:46:41,488 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 21:46:41] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:00:30,356 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 22:00:30,358 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 22:00:30,361 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:00:31,588 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:00:31,593 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:29:58,349 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:29:58,679 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:30:00,477 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:30:00,485 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:30:04,208 - app - INFO - Rendered Add Course page
+2025-01-12 22:30:04,224 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:30:04] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:30:11,390 - app - INFO - User added a course | Code: A | Name: A | IP: 127.0.0.1
+2025-01-12 22:30:11,400 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:30:11] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:30:11,444 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:30:11] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:35:54,929 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:35:55,078 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:35:56,339 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:35:56,345 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:36:22,557 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-12 22:36:22,557 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-12 22:36:22,560 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:36:23,453 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:36:23,457 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:36:51,509 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:36:51,599 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:36:51,604 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:36:51,700 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:36:52,764 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:36:52,767 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:36:56,217 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:36:56] "GET / HTTP/1.1" 200 -
+2025-01-12 22:36:58,299 - app - INFO - Course Catalog accessed | Total Courses: 8 | IP: 127.0.0.1
+2025-01-12 22:36:58,311 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:36:58] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:37:07,550 - app - INFO - Rendered Add Course page
+2025-01-12 22:37:07,559 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:37:07] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:37:17,437 - app - INFO - Course added | Code: KkKk | Name: l | IP: 127.0.0.1
+2025-01-12 22:37:17,441 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:37:17] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:37:17,483 - app - INFO - Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1
+2025-01-12 22:37:17,486 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:37:17] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:38:40,680 - app - INFO - Rendered Add Course page
+2025-01-12 22:38:40,681 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:38:40] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:38:50,480 - app - ERROR - Form validation failed - Missing fields: name | IP: 127.0.0.1
+2025-01-12 22:38:50,482 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:38:50] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:38:50,491 - app - INFO - Rendered Add Course page
+2025-01-12 22:38:50,493 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:38:50] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:41:20,884 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:41:20,950 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:41:21,074 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:41:21,111 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:41:22,310 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:41:22,318 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:41:22,326 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:41:24,168 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:41:24,218 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:41:24,245 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:41:24,308 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:41:25,083 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:41:25,087 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:41:25,142 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:41:25,146 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:41:27,116 - app - INFO - Processed index in 11.03 ms | IP: 127.0.0.1
+2025-01-12 22:41:27,121 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:41:27] "GET / HTTP/1.1" 200 -
+2025-01-12 22:41:29,544 - app - INFO - Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1
+2025-01-12 22:41:29,551 - app - INFO - Processed course_catalog in 8.18 ms | IP: 127.0.0.1
+2025-01-12 22:41:29,551 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:41:29] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:41:31,392 - app - INFO - Rendered Add Course page
+2025-01-12 22:41:31,398 - app - INFO - Processed add_course in 6.57 ms | IP: 127.0.0.1
+2025-01-12 22:41:31,399 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:41:31] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:41:40,985 - app - INFO - Course added | Code: qQqq | Name: q | IP: 127.0.0.1
+2025-01-12 22:41:40,986 - app - INFO - Processed add_course in 8.00 ms | IP: 127.0.0.1
+2025-01-12 22:41:40,989 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:41:40] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:41:41,010 - app - INFO - Course Catalog accessed | Total Courses: 10 | IP: 127.0.0.1
+2025-01-12 22:41:41,011 - app - INFO - Processed course_catalog in 15.32 ms | IP: 127.0.0.1
+2025-01-12 22:41:41,012 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:41:41] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:42:13,494 - app - INFO - Rendered Add Course page
+2025-01-12 22:42:13,495 - app - INFO - Processed add_course in 0.90 ms | IP: 127.0.0.1
+2025-01-12 22:42:13,496 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:42:13] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:42:41,780 - app - INFO - Course added | Code: ES335 | Name: Machine Laerning | IP: 127.0.0.1
+2025-01-12 22:42:41,781 - app - INFO - Processed add_course in 6.44 ms | IP: 127.0.0.1
+2025-01-12 22:42:41,783 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:42:41] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:42:41,805 - app - INFO - Course Catalog accessed | Total Courses: 11 | IP: 127.0.0.1
+2025-01-12 22:42:41,806 - app - INFO - Processed course_catalog in 14.68 ms | IP: 127.0.0.1
+2025-01-12 22:42:41,807 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:42:41] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:44:46,058 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:44:46,136 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:44:46,281 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:44:48,081 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:44:48,087 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:45:44,683 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:45:44,792 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:45:45,811 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:45:45,815 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:52:33,663 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:52:33,898 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:52:35,027 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:52:35,043 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:52:37,878 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:52:37,963 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:52:38,865 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:52:38,869 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:52:41,329 - app - INFO - Processed index in 12.89 ms | IP: 127.0.0.1
+2025-01-12 22:52:41,331 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:52:41] "GET / HTTP/1.1" 200 -
+2025-01-12 22:52:43,068 - app - INFO - Course Catalog accessed | Total Courses: 11 | IP: 127.0.0.1
+2025-01-12 22:52:43,075 - app - INFO - Processed course_catalog in 7.59 ms | IP: 127.0.0.1
+2025-01-12 22:52:43,077 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:52:43] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:52:45,183 - app - INFO - Rendered Add Course page
+2025-01-12 22:52:45,188 - app - INFO - Processed add_course in 4.11 ms | IP: 127.0.0.1
+2025-01-12 22:52:45,189 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:52:45] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:52:55,458 - app - INFO - Course added | Code: y | Name: y | IP: 127.0.0.1
+2025-01-12 22:52:55,459 - app - INFO - Processed add_course in 5.90 ms | IP: 127.0.0.1
+2025-01-12 22:52:55,461 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:52:55] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:52:55,498 - app - INFO - Course Catalog accessed | Total Courses: 12 | IP: 127.0.0.1
+2025-01-12 22:52:55,499 - app - INFO - Processed course_catalog in 25.86 ms | IP: 127.0.0.1
+2025-01-12 22:52:55,500 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:52:55] "GET /catalog HTTP/1.1" 200 -
+2025-01-12 22:53:27,753 - app - INFO - Rendered Add Course page
+2025-01-12 22:53:27,754 - app - INFO - Processed add_course in 1.00 ms | IP: 127.0.0.1
+2025-01-12 22:53:27,755 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:53:27] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:53:36,707 - app - ERROR - Form validation failed - Missing fields: name | IP: 127.0.0.1
+2025-01-12 22:53:36,708 - app - INFO - Processed add_course in 2.04 ms | IP: 127.0.0.1
+2025-01-12 22:53:36,709 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:53:36] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:53:36,714 - app - INFO - Rendered Add Course page
+2025-01-12 22:53:36,715 - app - INFO - Processed add_course in 0.98 ms | IP: 127.0.0.1
+2025-01-12 22:53:36,716 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:53:36] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:54:11,534 - app - ERROR - Form validation failed - Missing fields: name | IP: 127.0.0.1
+2025-01-12 22:54:11,535 - app - INFO - Processed add_course in 1.39 ms | IP: 127.0.0.1
+2025-01-12 22:54:11,536 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:54:11] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-12 22:54:11,550 - app - INFO - Rendered Add Course page
+2025-01-12 22:54:11,552 - app - INFO - Processed add_course in 2.38 ms | IP: 127.0.0.1
+2025-01-12 22:54:11,555 - werkzeug - INFO - 127.0.0.1 - - [12/Jan/2025 22:54:11] "GET /add_course HTTP/1.1" 200 -
+2025-01-12 22:54:56,905 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:54:57,028 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:54:58,106 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:54:58,111 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-12 22:56:46,399 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\OneDrive - iitgn.ac.in\\Couse Work Sem 4\\STA\\Assignment\\Software-Tools-Techniques-for-AI\\app.py', reloading
+2025-01-12 22:56:46,526 - werkzeug - INFO -  * Restarting with stat
+2025-01-12 22:56:47,659 - werkzeug - WARNING -  * Debugger is active!
+2025-01-12 22:56:47,664 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-13 12:03:56,537 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-13 12:03:56,538 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-13 12:03:56,541 - werkzeug - INFO -  * Restarting with stat
+2025-01-13 12:03:57,492 - werkzeug - WARNING -  * Debugger is active!
+2025-01-13 12:03:57,498 - werkzeug - INFO -  * Debugger PIN: 131-319-516
+2025-01-13 12:04:01,041 - app - INFO - Processed index in 36.32 ms | IP: 127.0.0.1
+2025-01-13 12:04:01,042 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:01] "GET / HTTP/1.1" 200 -
+2025-01-13 12:04:01,746 - app - INFO - Processed None in 0.00 ms | IP: 127.0.0.1
+2025-01-13 12:04:01,748 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-13 12:04:03,467 - app - INFO - Course Catalog accessed | Total Courses: 12 | IP: 127.0.0.1
+2025-01-13 12:04:03,474 - app - INFO - Processed course_catalog in 12.00 ms | IP: 127.0.0.1
+2025-01-13 12:04:03,475 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:03] "GET /catalog HTTP/1.1" 200 -
+2025-01-13 12:04:09,426 - app - INFO - Rendered Add Course page
+2025-01-13 12:04:09,436 - app - INFO - Processed add_course in 9.49 ms | IP: 127.0.0.1
+2025-01-13 12:04:09,436 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:09] "GET /add_course HTTP/1.1" 200 -
+2025-01-13 12:04:20,092 - app - INFO - Course added | Code: w | Name: w | IP: 127.0.0.1
+2025-01-13 12:04:20,093 - app - INFO - Processed add_course in 8.91 ms | IP: 127.0.0.1
+2025-01-13 12:04:20,105 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:20] "[32mPOST /add_course HTTP/1.1[0m" 302 -
+2025-01-13 12:04:20,130 - app - INFO - Course Catalog accessed | Total Courses: 13 | IP: 127.0.0.1
+2025-01-13 12:04:20,133 - app - INFO - Processed course_catalog in 15.73 ms | IP: 127.0.0.1
+2025-01-13 12:04:20,134 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:04:20] "GET /catalog HTTP/1.1" 200 -
+2025-01-13 12:05:11,572 - app - INFO - Course Catalog accessed | Total Courses: 7 | IP: 127.0.0.1
+2025-01-13 12:05:11,574 - app - INFO - Processed course_catalog in 3.01 ms | IP: 127.0.0.1
+2025-01-13 12:05:11,576 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:05:11] "GET /catalog HTTP/1.1" 200 -
+2025-01-13 12:17:04,213 - app - INFO - Processed index in 12.00 ms | IP: 127.0.0.1
+2025-01-13 12:17:04,221 - werkzeug - INFO - 127.0.0.1 - - [13/Jan/2025 12:17:04] "GET / HTTP/1.1" 200 -
+2025-01-13 12:23:46,623 - werkzeug - INFO -  * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading
+2025-01-13 12:23:47,025 - werkzeug - INFO -  * Restarting with stat
+{"timestamp": "2025-01-13 12:23:49,226", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 12:23:49,236", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 12:23:54,190", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+2025-01-13 12:23:54,306 - werkzeug - INFO -  * Restarting with stat
+{"timestamp": "2025-01-13 12:23:55,754", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 12:23:55,758", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 12:23:58,424", "level": "INFO", "message": "Processed index in 15.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:23:58,425", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:23:58] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:23:58,776", "level": "INFO", "message": "Processed None in 0.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:23:58,777", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:23:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"timestamp": "2025-01-13 12:24:00,861", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 7 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:00,868", "level": "INFO", "message": "Processed course_catalog in 8.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:00,868", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:24:00] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:24:02,373", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 12:24:02,378", "level": "INFO", "message": "Processed add_course in 4.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:02,378", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:24:02] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:24:09,276", "level": "INFO", "message": "Course added | Code: pp | Name: p | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:09,277", "level": "INFO", "message": "Processed add_course in 6.33 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:09,278", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:24:09] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 12:24:09,310", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 8 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:09,310", "level": "INFO", "message": "Processed course_catalog in 23.71 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:24:09,311", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:24:09] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:26:18,246", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 12:26:18,248", "level": "INFO", "message": "Processed add_course in 1.02 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:18,248", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:26:18] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:26:24,936", "level": "ERROR", "message": "Form validation failed - Missing fields: code | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:24,936", "level": "INFO", "message": "Processed add_course in 0.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:24,937", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:26:24] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 12:26:24,946", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 12:26:24,948", "level": "INFO", "message": "Processed add_course in 3.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:24,949", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:26:24] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 12:26:35,469", "level": "INFO", "message": "Course added | Code: pp | Name: p | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:35,469", "level": "INFO", "message": "Processed add_course in 14.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:35,470", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:26:35] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 12:26:35,498", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:35,499", "level": "INFO", "message": "Processed course_catalog in 21.30 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 12:26:35,499", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 12:26:35] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:20:25,093", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"timestamp": "2025-01-13 14:20:25,094", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"timestamp": "2025-01-13 14:20:25,096", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:20:26,176", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:20:26,184", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:20:28,336", "level": "INFO", "message": "Processed index in 17.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:20:28,338", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:20:28] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:20:28,446", "level": "INFO", "message": "Processed index in 2.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:20:28,447", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:20:28] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:20:29,195", "level": "INFO", "message": "Processed None in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:20:29,197", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:20:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -"}
+{"timestamp": "2025-01-13 14:20:34,107", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:20:34,115", "level": "INFO", "message": "Processed course_catalog in 10.63 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:20:34,117", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:20:34] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:23:45,411", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 7 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:23:45,417", "level": "INFO", "message": "Processed course_catalog in 8.13 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:23:45,419", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:23:45] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:23:52,056", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:23:52,115", "level": "INFO", "message": "Processed add_course in 59.19 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:23:52,117", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:23:52] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:24:15,630", "level": "INFO", "message": "Course added | Code: EH445 | Name: Lithosphere | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:24:15,634", "level": "INFO", "message": "Processed add_course in 24.29 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:24:15,645", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:24:15] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:24:15,675", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 8 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:24:15,678", "level": "INFO", "message": "Processed course_catalog in 20.06 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:24:15,680", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:24:15] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:29:44,917", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:29:45,199", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:29:46,545", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:29:46,554", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:30:35,547", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:30:35,670", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:30:36,779", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:30:36,783", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:31:14,542", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:31:14,629", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:31:15,634", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:31:15,641", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:31:17,610", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:31:17,761", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:31:18,866", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:31:18,870", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:31:27,064", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:31:27,097", "level": "INFO", "message": "Processed add_course in 33.53 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:31:27,100", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:31:27] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:31:44,254", "level": "INFO", "message": "Course added | Code: EH668 | Name: Drone data | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:31:44,255", "level": "INFO", "message": "Processed add_course in 8.61 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:31:44,259", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:31:44] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:31:44,282", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:31:44,298", "level": "INFO", "message": "Processed course_catalog in 28.33 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:31:44,299", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:31:44] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:36:04,775", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:36:04,911", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:36:06,062", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:36:06,076", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:38:11,478", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:38:11,510", "level": "INFO", "message": "Processed add_course in 31.15 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:38:11,511", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:38:11] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:38:20,578", "level": "ERROR", "message": "Form validation failed - Missing fields: name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:38:20,579", "level": "INFO", "message": "Processed add_course in 5.95 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:38:20,582", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:38:20] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:38:20,594", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:38:20,596", "level": "INFO", "message": "Processed add_course in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:38:20,597", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:38:20] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:39:11,665", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:39:11,677", "level": "INFO", "message": "Processed course_catalog in 12.67 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:39:11,679", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:39:11] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:39:14,032", "level": "INFO", "message": "Course Details Viewed | Code: CS101 | Name: Introduction to Computer Science | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:39:14,038", "level": "INFO", "message": "Processed course_details in 7.33 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:39:14,038", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:39:14] "GET /course/CS101 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:44:13,966", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:44:14,118", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:44:15,381", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:44:15,385", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:44:52,712", "level": "INFO", "message": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000"}
+{"timestamp": "2025-01-13 14:44:52,712", "level": "INFO", "message": "[33mPress CTRL+C to quit[0m"}
+{"timestamp": "2025-01-13 14:44:52,715", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:44:53,657", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:44:53,661", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:45:01,216", "level": "INFO", "message": "Course Details Viewed | Code: CS101 | Name: Introduction to Computer Science | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:45:01,229", "level": "INFO", "message": "Processed course_details in 17.16 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:45:01,230", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:45:01] "GET /course/CS101 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:45:25,369", "level": "INFO", "message": "Course Details Viewed | Code: CS101 | Name: Introduction to Computer Science | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:45:25,370", "level": "INFO", "message": "Processed course_details in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:45:25,372", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:45:25] "GET /course/CS101 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:46:10,544", "level": "INFO", "message": "Course Details Viewed | Code: ES 667 | Name: Deep Learning | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:46:10,545", "level": "INFO", "message": "Processed course_details in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:46:10,545", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:46:10] "GET /course/ES%20667 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:49:18,207", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:49:18,282", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:49:18,299", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:49:18,407", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:49:19,442", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:49:19,446", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:49:19,510", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:49:19,514", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:49:21,291", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:49:21,361", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:49:21,359", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:49:21,447", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:49:22,312", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:49:22,315", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:49:22,365", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:49:22,370", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:49:33,794", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:49:33,835", "level": "INFO", "message": "Processed add_course in 42.59 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:33,836", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:49:33] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:49:43,475", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code"], "total_errors": 1, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:49:43"}"}
+{"timestamp": "2025-01-13 14:49:43,476", "level": "ERROR", "message": "Form validation failed - Missing fields: code | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:43,476", "level": "INFO", "message": "Processed add_course in 6.92 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:43,478", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:49:43] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:49:43,489", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:49:43,490", "level": "INFO", "message": "Processed add_course in 1.91 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:43,492", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:49:43] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:49:53,070", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code", "name"], "total_errors": 2, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:49:53"}"}
+{"timestamp": "2025-01-13 14:49:53,070", "level": "ERROR", "message": "Form validation failed - Missing fields: code, name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:53,070", "level": "INFO", "message": "Processed add_course in 1.89 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:53,073", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:49:53] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:49:53,083", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:49:53,084", "level": "INFO", "message": "Processed add_course in 1.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:49:53,085", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:49:53] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:50:25,473", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code", "name"], "total_errors": 2, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:50:25"}"}
+{"timestamp": "2025-01-13 14:50:25,474", "level": "ERROR", "message": "Form validation failed - Missing fields: code, name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:25,474", "level": "INFO", "message": "Processed add_course in 1.86 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:25,475", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:25] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:50:25,486", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:50:25,488", "level": "INFO", "message": "Processed add_course in 3.44 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:25,489", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:25] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:50:28,200", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code", "name"], "total_errors": 2, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:50:28"}"}
+{"timestamp": "2025-01-13 14:50:28,201", "level": "ERROR", "message": "Form validation failed - Missing fields: code, name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:28,201", "level": "INFO", "message": "Processed add_course in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:28,203", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:28] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:50:28,212", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:50:28,214", "level": "INFO", "message": "Processed add_course in 2.03 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:28,216", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:28] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:50:30,407", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code", "name"], "total_errors": 2, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:50:30"}"}
+{"timestamp": "2025-01-13 14:50:30,408", "level": "ERROR", "message": "Form validation failed - Missing fields: code, name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:30,408", "level": "INFO", "message": "Processed add_course in 2.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:30,409", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:30] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:50:30,418", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:50:30,419", "level": "INFO", "message": "Processed add_course in 1.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:50:30,420", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:50:30] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:54:13,728", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:54:13,790", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:54:13,800", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 14:54:13,890", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 14:54:14,649", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:54:14,652", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:54:14,687", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 14:54:14,691", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 14:54:21,581", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:54:21,591", "level": "INFO", "message": "Processed add_course in 10.14 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:21,591", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:54:21] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:54:25,294", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code", "name"], "total_errors": 2, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 14:54:25"}"}
+{"timestamp": "2025-01-13 14:54:25,294", "level": "ERROR", "message": "Form validation failed - Missing fields: code, name | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:25,295", "level": "INFO", "message": "Processed add_course in 2.53 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:25,295", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:54:25] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 14:54:25,303", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 14:54:25,305", "level": "INFO", "message": "Processed add_course in 2.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:25,306", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:54:25] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:54:27,173", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:27,177", "level": "INFO", "message": "Processed course_catalog in 5.08 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:27,178", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:54:27] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:54:30,532", "level": "INFO", "message": "Course Details Viewed | Code: CS 203 | Name: Software and Tools for AI | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:30,534", "level": "INFO", "message": "Processed course_details in 3.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:54:30,535", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:54:30] "GET /course/CS%20203 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:58:48,338", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,339", "level": "INFO", "message": "Processed course_catalog in 2.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,340", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:58:48] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:58:48,524", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,527", "level": "INFO", "message": "Processed course_catalog in 1.27 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,528", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:58:48] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 14:58:48,756", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,758", "level": "INFO", "message": "Processed course_catalog in 3.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 14:58:48,758", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 14:58:48] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:02:54,097", "level": "INFO", "message": "Course Details Viewed | Code: ES 667 | Name: Deep Learning | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:02:54,097", "level": "INFO", "message": "Processed course_details in 1.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:02:54,097", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:02:54] "GET /course/ES%20667 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:03:09,769", "level": "INFO", "message": "Course Catalog accessed | Total Courses: 9 | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:03:09,771", "level": "INFO", "message": "Processed course_catalog in 2.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:03:09,772", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:03:09] "GET /catalog HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:03:20,317", "level": "INFO", "message": "Course Details Viewed | Code: ES 667 | Name: Deep Learning | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:03:20,317", "level": "INFO", "message": "Processed course_details in 1.01 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:03:20,318", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:03:20] "GET /course/ES%20667 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:07:41,247", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 15:07:41,280", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 15:07:41,365", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 15:07:42,147", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 15:07:42,151", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 15:07:44,939", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 15:07:45,006", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 15:07:45,776", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 15:07:45,780", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 15:07:50,925", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:07:50] "[35m[1mGET / HTTP/1.1[0m" 500 -"}
+{"timestamp": "2025-01-13 15:07:51,178", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:07:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:07:51,210", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:07:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:07:51,296", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:07:51] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=rlBW4sOQJSPXTApZm2z7 HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:07:51,636", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:07:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:09:43,268", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 15:09:43,325", "level": "INFO", "message": " * Restarting with stat"}
+{"timestamp": "2025-01-13 15:09:44,054", "level": "WARNING", "message": " * Debugger is active!"}
+{"timestamp": "2025-01-13 15:09:44,057", "level": "INFO", "message": " * Debugger PIN: 131-319-516"}
+{"timestamp": "2025-01-13 15:09:47,811", "level": "INFO", "message": "Processed index in 11.17 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:09:47,812", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:09:47] "GET / HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:10:42,211", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 15:10:42,215", "level": "INFO", "message": "Processed add_course in 4.23 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:10:42,216", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:10:42] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:10:47,550", "level": "ERROR", "message": "{"event": "form_validation_error", "error_type": "missing_fields", "missing_fields": ["code"], "total_errors": 1, "ip_address": "127.0.0.1", "timestamp": "2025-01-13 15:10:47"}"}
+{"timestamp": "2025-01-13 15:10:47,550", "level": "ERROR", "message": "Form validation failed - Missing fields: code | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:10:47,550", "level": "INFO", "message": "Processed add_course in 2.99 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:10:47,551", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:10:47] "[32mPOST /add_course HTTP/1.1[0m" 302 -"}
+{"timestamp": "2025-01-13 15:10:47,559", "level": "INFO", "message": "Rendered Add Course page"}
+{"timestamp": "2025-01-13 15:10:47,560", "level": "INFO", "message": "Processed add_course in 1.00 ms | IP: 127.0.0.1"}
+{"timestamp": "2025-01-13 15:10:47,560", "level": "INFO", "message": "127.0.0.1 - - [13/Jan/2025 15:10:47] "GET /add_course HTTP/1.1" 200 -"}
+{"timestamp": "2025-01-13 15:11:04,256", "level": "INFO", "message": " * Detected change in 'C:\\Users\\daksh\\code\\203\\a1\\app.py', reloading"}
+{"timestamp": "2025-01-13 15:11:04,323", "level": "INFO", "message": " * Restarting with stat"}
